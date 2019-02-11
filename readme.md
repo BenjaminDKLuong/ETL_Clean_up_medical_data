@@ -2,6 +2,7 @@ AURALIN VS NOVODRA
 
 ETL Data clean up medical records
 ========================
+***In order to view the code, you look for cleaning-student.ipynb*
 
 In this project, I: 
 * imported the data
